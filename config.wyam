@@ -1,5 +1,5 @@
 #r Blog
-#t Solid State
+#t Phantom
 
 // Customize your settings and add new ones here
 Settings[Keys.Host] = "host.com";
