@@ -5,7 +5,7 @@ branches:
 environment:
   access_token:
     # EDIT the encrypted version of your GitHub access token
-    secure: 
+    secure: jlg+U1kD1HnNPw+4ywgdIRPoKxCUXoj5BEJy9plYUx9t8pZIVKAxXag97lBZkczT
   op_build_user_email: dider7@gmail.com
   op_build_user: Abul Kayes
 
