@@ -1,0 +1,9 @@
+#r Blog
+#t SolidState
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "host.com";
+Settings[BlogKeys.Title] = "Abul Kayes";
+Settings[BlogKeys.Description] = "Can't think of any description!";
+
+// Add any pipeline customizations here
